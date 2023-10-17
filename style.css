@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: beige;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#userInput{
+    width: 100%;
+    border: none;
+	padding: 5px 15px;
+    border-radius: 5px;
+    color: #1b1b1b;
+}
